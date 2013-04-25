@@ -1,2 +1,2 @@
 #Open Badges
-A Node.js module for using Mozilla open badges
+A Node.js module for issuing Mozilla open badges
